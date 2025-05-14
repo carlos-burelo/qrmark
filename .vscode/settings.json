@@ -1,0 +1,42 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".....lib": true,
+    "assets": true,
+    "ios": true,
+    "test": true,
+    "android": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "pubspec.lock": true,
+    "devtools_options.yaml": true,
+    "biome.json": true,
+    "qrmark.iml": true,
+    "README.md": true,
+    "node_modules": true,
+    "bun.lock": true,
+    "package.json": true,
+    "bunfig.toml": true,
+    "build": true,
+    ".idea": true,
+    "windows": true,
+    "web": true,
+    // ".env": true,
+    "default_users.json": true,
+    "prompt.md": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    // ".env": true,
+    // "qrmark*": true,
+  },
+  "[typescript]": {
+    // "editor.defaultFormatter": "vscode.typescript-language-features",
+  },
+  "[dart]": {
+    
+  },
+  "dart.lineLength": 100,
+  "dart.closingLabelsTextStyle": "italic",
+  "dart.enableSdkFormatter": true
+}

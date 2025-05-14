@@ -1,0 +1,6 @@
+logLevel = "debug" # "debug" | "warn" | "error"
+smol = true
+[run]
+# default on Windows
+shell = "bun"
+bun = true
